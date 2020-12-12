@@ -5,6 +5,6 @@ Layout responsive with css grid
 
 
 
-<a href="https://clipmarcos.github.io/Layout-with-CSS-GRID/" target="_blank" >Ver Demo</a>
+<a href="https://clipmarcos.github.io/Layout-with-CSS-GRID/" target="_blank" >Demo</a>
 
 
